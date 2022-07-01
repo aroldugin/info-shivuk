@@ -1,15 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `SHIVUK Informieren`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Andrew Roldugin`,
+      summary: `Unser Engagement`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Unser Engagement`,
+    siteUrl: `https://shivuk.io/`,
+
   },
   plugins: [
     `gatsby-plugin-image`,
