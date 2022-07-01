@@ -3,7 +3,7 @@ module.exports = {
     title: `SHIVUK Informieren`,
     author: {
       name: `Andrew Roldugin`,
-      summary: `Unser Engagement`,
+      summary: `CEO`,
     },
     description: `Unser Engagement`,
     siteUrl: `https://shivuk.io/`,

@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
+        src="../images/cassus.png"
         width={50}
         height={50}
         quality={95}
@@ -44,7 +44,8 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-           <strong>{author.name}</strong> {author?.summary || null}
+        Kontakt <br/>
+           <strong>{author.name}</strong> | {author?.summary || null}
           {` `}
 
         </p>
